@@ -1,7 +1,8 @@
 # Assignment1_GNR638
 ## Scene Recognition with Bag-of-Words: UC Merced Land Use Dataset
 
-###Dataset
+-----
+#Dataset
 
 The UC Merced Land Use Dataset contains 21 classes of aerial images, with 100 images per class. Each image has a resolution of 256 × 256 pixels.
 
