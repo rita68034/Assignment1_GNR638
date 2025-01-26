@@ -20,7 +20,7 @@ The goal of this project is to perform classical computer vision topic, image re
 
 ## Implementation steps
 
-1. Dataset
+1. Dataset Pre-processing
 2. Training
 3. Optimization of codewords
 4. Visualizing
