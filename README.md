@@ -26,7 +26,10 @@ The goal of this project is to perform classical computer vision topic, image re
 4. Visualizing
 5. Accuracy
 
-
+## Steps To Run 
++ Use dataset "split_dataset_new_new (1)"
++ Install cyvlfeat
++ Run "final3.py"
 
 ## Results
 
